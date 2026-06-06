@@ -167,11 +167,3 @@ Largest reduction in burnout risk among all tested scenarios.
 This project successfully demonstrates the application of Machine Learning in predicting employee burnout risk. The generated insights can help organizations make data-driven decisions to improve employee well-being, productivity, and retention.
 
 ---
-
-## Author
-
-**Mr. Aaftab**
-
-Department of Data Science
-
-Machine Learning Internship Project
